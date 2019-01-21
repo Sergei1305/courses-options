@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Changing the inputs'
+description: 'The learner will be able to use Google sheets to add features to a binomial model that will make it customizable, i.e. the user will be able to quickly and easily change inputs, which will automatically lead to changes in the model.'
 ---
 
 ## Example coding exercise
